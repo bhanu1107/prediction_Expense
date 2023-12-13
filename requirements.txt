@@ -1,0 +1,7 @@
+Flask
+matplotlib
+numpy
+pandas
+Requests
+sklearn.linear_model.base
+seaborn
